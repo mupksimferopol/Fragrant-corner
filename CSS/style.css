@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.logo{
+    font-size: 40px;
+    font-family: 'Amatic SC', sans-serif;
+    margin-top: -5px;
+}
+.header_links{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Amatic SC', sans-serif;
+    margin-top: 0px;
+}
+.header_link{
+    padding-left: 60px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #000;
+}
+.section_headind{
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Amatic SC', sans-serif;
+}
+.header_nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;   
+}
+
+.header_background_photo{
+    background-image: url(../img/1639743281_aroma-svechi-10\ 1.png);
+    max-width: 1280px;
+    min-height: 700px;
+    margin-top: -70px;
+}
+.header_background_text{
+    color: white;
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: 'Amatic SC', sans-serif;
+    padding-top: 300px;
+
+}
+.text_about_us{
+    font-size: 25px;
+    max-width: 650px;
+    min-height: 550px;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+.foto_about_us{
+    background-color: #f5e0c9;
+    max-width: 640px;
+    min-height: 550px;
+    padding: 10px 70px;
+}
+.main_about_us_foto_one{
+    max-width: 350px;
+    min-height: 300px;
+}
+.main_about_us_foto_tow{
+    max-width: 350px;
+    min-height: 300px;
+    padding-bottom: 35px;
+}
+.section_headind_our{
+    background-image: url(../img/8ef4fa29f083021253880852a40189ad_1522x570-q-85\ 1.png);
+    max-width: 1280px;
+    min-height: 385px;;
+}
+.section_headind_our_text{
+    color: white;
+    font-family: 'Amatic SC', sans-serif;
+    text-align: center;
+    font-size: 55px;
+    padding-top: 150px;
+
+}
+.section_headind_our_a{
+    text-decoration: none;
+}
+.footer_Words{
+    font-size: 30px;
+    padding-left: 50px;
+    font-family: 'Amatic SC', sans-serif;
+}
+.footer_color{
+    background-color: #EBC192;
+    margin-top: -30px;
+}
+.footer_foto{
+    width: 50px;
+    height: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+.about_us{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+
+
+
+
+
+
+
+
+.header_heading_candels{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Amatic SC', sans-serif;
+    margin-top: -15px;
+    
+}
+.main_section_table{
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none; 
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+}
+.main_section_table_foto{
+    width: 636px;
+    height: 636px;
+}
+.section_our_a{
+    text-decoration: none; 
+    color: #000;
+
+}
+
+
+
+
+
+
+
+
+
+
+.header_candle{
+    max-width: 550px;
+    min-height: 550px;
+    padding-left: 365px;
+    padding-right: 365px;
+    background-color: #f5e0c9;
+}
+.candele_section_text{
+    text-align: justify;
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+
