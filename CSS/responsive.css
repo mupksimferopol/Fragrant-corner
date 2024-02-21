@@ -43,6 +43,12 @@
     min-height: 190px;
     margin:0px;
 }
+  .text_about_us{
+    font-size: 18px;
+    margin: 0 10px;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
 }
 @media screen and (max-width: 500px) {
   
@@ -88,5 +94,11 @@
     max-width: 170px;
     min-height: 190px;
     margin:0px;
+}
+  .text_about_us{
+    font-size: 18px;
+    margin: 0 10px;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
 }
 }
