@@ -4,6 +4,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-top: 0px;
   }
 
   .header_link {
@@ -49,6 +50,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+        margin-top: 0px;
   }
 
   .header_link {
