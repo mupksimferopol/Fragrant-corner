@@ -7,7 +7,7 @@
   }
 
   .header_link {
-    font-size: 20px;
+    font-size: 30px;
     padding-left: 15px;
     text-decoration: none;
     color: #000;
@@ -58,8 +58,8 @@
   }
 
   .header_link {
-    font-size: 10px;
-    padding-left: 20px;
+    font-size: 30px;
+    padding-left: 15px;
     text-decoration: none;
     color: #000;
   }
